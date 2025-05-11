@@ -1,4 +1,4 @@
-# The Saudi jobs links
+# The Saudi jobs directory
 
 a list of jobs offering website's
 feel free to fork the project and edit the list for your own country

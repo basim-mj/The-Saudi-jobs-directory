@@ -4,7 +4,7 @@ share_btn.addEventListener("click", async (e) => {
   const shareData = {
     title: "الدليل السعودي للوظائف",
     text: "الدليل السعودي للوظائف",
-    url: "https://www.google.com/",
+    url: "https://basim-mj.github.io/The-Saudi-jobs-directory/",
   };
   try {
     await navigator.share(shareData);
